@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: reactapp-ui
-        image: kokismoki/reactapp-ui:63205ff66c483d9f0296d5ca369374d5912d8f72
+        image: kokismoki/reactapp-ui:fa7dbe6723e226cfbc6f76a4b162f52f99c045a2
         ports:
         - containerPort: 80
